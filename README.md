@@ -66,8 +66,3 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Kirito72-hub/Kirito72-hub/output/snake.svg" alt="Snake animation" />
-
-###
