@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Ahmed Saudi and I'm a Junior Full Stack Developer .</h2>
+# 🖥 Ahmed Saudi
 
 ###
 
